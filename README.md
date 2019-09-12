@@ -1,5 +1,5 @@
-# StaticStack
+# Linear Data Structures. 
 
-# Codeing of a static data structure stack. 
-
-# Coded from template.
+# A static Stack (MyStack)
+# A Linked List (
+# 
